@@ -4,7 +4,11 @@ CREATE TABLE users (
   name VARCHAR(50) NOT NULL,
   age INT(3) NOT NULL
 );
-![image](https://user-images.githubusercontent.com/42664032/227965464-376871e5-4604-434b-85c0-42b3bad34712.png)
+
+
+
+![image](https://user-images.githubusercontent.com/42664032/227965633-9994b97e-2b7b-40fb-a9b5-ba0a7d2352cf.png)
+
 
 
 
